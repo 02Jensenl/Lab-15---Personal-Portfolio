@@ -1,0 +1,43 @@
+
+body{
+    background-color: rgb(168, 255, 212);
+    font-family: Calibri;
+}
+
+.header{
+    position: fixed;
+    top: 0;
+}
+
+p {
+
+    font-family: Calibri;
+   
+    }
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 15%;
+        border:6px solid rgb(207, 118, 9);
+
+      }
+
+.lasagna {
+    text-align: center;
+}
+.profilePic{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(216, 213, 168);
+    color: rgba(0, 0, 0, 0.986);
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
